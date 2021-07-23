@@ -1,4 +1,4 @@
-# LSA-LDA-Arabic-Poetry
+# LSA-LDA-Ar-Poetry
 
 مصدر البيانات الشعرية العربية
 
